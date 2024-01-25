@@ -1,3 +1,1 @@
-FROM gcr.io/cadvisor/cadvisor-amd64:v0.47.0
-
-LABEL name=koten
+FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
