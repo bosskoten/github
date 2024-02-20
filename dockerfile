@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/snapshot-controller:v6.3.1
+FROM registry.k8s.io/sig-storage/csi-provisioner:v3.4.0
